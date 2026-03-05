@@ -1,3 +1,0 @@
-Funciones tradicionales
-
-Arrow functions
