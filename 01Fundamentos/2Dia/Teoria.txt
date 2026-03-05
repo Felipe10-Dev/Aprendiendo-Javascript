@@ -1,0 +1,65 @@
+/* 
+=========================
+Operadores Y Comparadores
+=========================
+*/
+
+
+
+/* 
+==================
+Operadores Basicas
+==================
+*/
+
+- Suma -> +
+- Resta -> -
+- Multiplicacion -> *
+- Division -> /
+- Modulo (Residuo) -> %
+
+
+
+/* 
+=========================
+Operadores De Comparación
+=========================
+*/
+
+- Mayor Que -> >
+- Menor Que -> <
+- Mayor O Igual -> >=
+- Menor O Igual -> <=
+
+
+
+
+/* 
+=========================
+Operadores De Comparacion
+=========================
+*/
+
+
+= -> Compara Valor, Pero Convierte Tipos
+=== -> Compara Valor Y Tipo
+
+
+/* 
+=========
+Booleanos
+=========
+*/
+
+Valores -> True O False
+
+
+
+
+
+
+
+
+
+
+
