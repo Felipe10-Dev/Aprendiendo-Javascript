@@ -1,8 +1,0 @@
-let, const
-
-Tipos de datos
-
-Conversión de tipos
-
-Template literals
-
