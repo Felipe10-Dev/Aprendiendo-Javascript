@@ -1,0 +1,55 @@
+/* 
+===========================
+Condicionales En Javascript
+===========================
+*/
+
+
+
+
+// Las Condiciones Sirven Para Que El Programa Tome Decisiones
+
+
+
+
+- If -> Valida Si La Condicion Se Cumple
+
+Estructura: 
+
+if (condicion) {
+
+
+}
+
+
+- If - Else -> Cuando Hay Dos Posibles Caminos
+
+
+Estructura: 
+
+if (condicion) {
+
+
+} else {
+
+// Si no se cumple la condicion
+
+}
+
+
+
+- Else If (varias condiciones)
+
+if (condicion) {
+
+
+} else if (condicion) {
+
+
+} else {
+
+
+}
+
+
+
