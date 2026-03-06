@@ -26,12 +26,13 @@ Operadores De Comparación
 =========================
 */
 
+- Igual -> ==
+- Igual Y Mismo Tipo -> ===
+- Diferente -> !=
 - Mayor Que -> >
 - Menor Que -> <
 - Mayor O Igual -> >=
 - Menor O Igual -> <=
-
-
 
 
 /* 
@@ -43,6 +44,19 @@ Operadores De Comparacion
 
 = -> Compara Valor, Pero Convierte Tipos
 === -> Compara Valor Y Tipo
+
+
+/* 
+==================
+Operadores Logicos
+==================
+*/
+
+- AND -> &&
+- NOT -> !
+- `
+
+
 
 
 /* 
