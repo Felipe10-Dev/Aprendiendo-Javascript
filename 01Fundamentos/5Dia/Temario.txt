@@ -1,3 +1,2 @@
-Funciones tradicionales
+Bucles -> For, While, Do While
 
-Arrow functions
