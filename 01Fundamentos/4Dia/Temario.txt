@@ -1,5 +1,4 @@
-for
+Switch
 
-while
+prompt()
 
-do while
