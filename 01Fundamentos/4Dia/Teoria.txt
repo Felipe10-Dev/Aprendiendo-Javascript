@@ -1,0 +1,4 @@
+Switch -> Esta Estructura Sirve Para Evaluar Muchas Opciones
+
+Metodo Prompt() -> Se Utiliza Para Solicitar Informacion Al Usuario Pero Devuelve Una Cadena
+
