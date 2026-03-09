@@ -1,0 +1,6 @@
+Bucles -> Un Bucle Es Una Estructura Que Repite Código Hasta Que Se Cumpla Una Condición
+
+
+For -> Se Utiliza Cuando Sabemos El Numero De Iteracciones Exactas
+While -> Se Ejecuta Mientras La Condición Sea Verdadera
+Do While -> Siempre Se Ejecuta Una Vez Antes De Validar La Condicion
