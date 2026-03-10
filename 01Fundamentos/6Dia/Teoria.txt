@@ -1,0 +1,68 @@
+/* 
+=========
+Funciones
+=========
+*/
+
+- Una Funcion Es Un Bloque De Código Que Hace Algo Cuando La Llama
+
+
+
+Ejemplo: 
+
+function saludar() {
+
+console.log("Hola"); 
+
+}
+
+
+Para Ejecutarla: 
+
+saludar();
+
+
+
+/* 
+======================
+Funcion Con Parametros
+======================
+*/
+
+Ejemplo:
+
+function sumar(a, b){ // Parametros
+
+console.log(a + b); 
+
+}
+
+
+Para Ejecutarla: 
+
+sumar(5,3);  // Argumentos
+
+
+
+
+/* 
+===============
+Arrow Functions
+===============
+*/
+
+- Es Una Forma Más Moderna De Escribir Funciones
+
+
+Ejemplo: 
+
+const sumar =(a, b) => {
+
+return a + b; 
+
+}; 
+
+
+Para Ejecutarla: 
+
+console.log(sumar(5,3)); 
